@@ -73,3 +73,5 @@ PORT=3000 or any other port you prefer
 ```bash
 npm run dev
 ```
+
+This command will start the development server. You can access the API at `http://localhost:3000`.
